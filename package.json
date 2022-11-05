@@ -1,0 +1,29 @@
+{
+  "name": "mean",
+  "version": "0.0.1",
+  "description": "my mean app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UdaySidhu625/Practise.git"
+  },
+  "keywords": [
+    "MongoDB",
+    "Express",
+    "AngularJS",
+    "NodeJS"
+  ],
+  "author": "Uday Sidhu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UdaySidhu625/Practise/issues"
+  },
+  "homepage": "https://github.com/UdaySidhu625/Practise#readme",
+  "dependencies": {
+    "connect": "^3.7.0"
+  }
+}
